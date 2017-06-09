@@ -1,0 +1,15 @@
+<course course_image="Soil Mechanics.jpg" display_name="Soil Mechanics" instructor_info="{&quot;instructors&quot;: []}" learning_info="[]" start="&quot;2017-05-10T00:00:00+00:00&quot;">
+  <chapter url_name="Introduction"/>
+  <chapter url_name="Water_Content_Experiment"/>
+  <chapter url_name="Unit_Weight_Experiment"/>
+  <chapter url_name="Specific_Gravity_Experiment"/>
+  <chapter url_name="Grain_Size_Distribution_Experiment"/>
+  <chapter url_name="Attenberg_Limits_Experiment"/>
+  <chapter url_name="Permeability_Experiment"/>
+  <chapter url_name="Compaction_Test_Experiment"/>
+  <chapter url_name="Consolidation_Test_Experiment"/>
+  <chapter url_name="Direct_Shear_Test_Experiment"/>
+  <chapter url_name="Triaxial_Test_Experiment"/>
+  <chapter url_name="ffa7e87f5a0848b395bab4ff0f5101e3"/>
+  <wiki slug="IIIT-H.SMFE.Anytime"/>
+</course>
