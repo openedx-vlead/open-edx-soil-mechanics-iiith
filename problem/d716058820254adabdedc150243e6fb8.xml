@@ -1,0 +1,73 @@
+<problem display_name="Multiple Choice" markdown="1. Dry density of soil can be defined as the ratio of&#10;(x) Weight of solids to total volume &#10;() Weight of soil to the total volume of solids&#10;() Unit weight of the soil to the unit weight of water &#10;() None &#10;&#10;2) The bulk density of coarse grained soils can be determined by&#10;(x) Sand replacement method&#10;() Core cutter method&#10;() Pycnometer method&#10;() Torsion balance method &#10;&#10;3) The bulk density of clays can be determined by&#10;(x) Core cutter method &#10;() Pycnometer method&#10;() Torsion balance method&#10;() Sand replacement method&#10;&#10;4) Unit weight of solids depends on&#10;(x) Compaction&#10;() Consolidation&#10;() Specific gravity&#10;() Void ratio &#10;&#10;5) Bulk density, saturation density and dry density of soil varies upon&#10;() Degree of compaction&#10;() Degree of consolidation &#10;() Water content&#10;(x) Porosity &#10;&#10;6) Different soils have different unit weights&#10;(x) True&#10;() False&#10;() Cannot be answered&#10;() Could not be answered&#10;&#10;7) Select the correct one&#10;(x) Unit weight of dry soil is greater than unit weight of wet soil&#10;() For dry soils, dry unit weight is less than total unit weight&#10;() Unit weight of soil increases due to submergence in water&#10;() Unit weight of soil decreases due to submergence in water &#10;">
+<p>1. Dry density of soil can be defined as the ratio of</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Weight of solids to total volume</choice>
+    <choice correct="false">Weight of soil to the total volume of solids</choice>
+    <choice correct="false">Unit weight of the soil to the unit weight of water</choice>
+    <choice correct="false">None</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2) The bulk density of coarse grained soils can be determined by</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Sand replacement method</choice>
+    <choice correct="false">Core cutter method</choice>
+    <choice correct="false">Pycnometer method</choice>
+    <choice correct="false">Torsion balance method</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3) The bulk density of clays can be determined by</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Core cutter method</choice>
+    <choice correct="false">Pycnometer method</choice>
+    <choice correct="false">Torsion balance method</choice>
+    <choice correct="false">Sand replacement method</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4) Unit weight of solids depends on</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Compaction</choice>
+    <choice correct="false">Consolidation</choice>
+    <choice correct="false">Specific gravity</choice>
+    <choice correct="false">Void ratio</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>5) Bulk density, saturation density and dry density of soil varies upon</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Degree of compaction</choice>
+    <choice correct="false">Degree of consolidation</choice>
+    <choice correct="false">Water content</choice>
+    <choice correct="true">Porosity</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>6) Different soils have different unit weights</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">True</choice>
+    <choice correct="false">False</choice>
+    <choice correct="false">Cannot be answered</choice>
+    <choice correct="false">Could not be answered</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>7) Select the correct one</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Unit weight of dry soil is greater than unit weight of wet soil</choice>
+    <choice correct="false">For dry soils, dry unit weight is less than total unit weight</choice>
+    <choice correct="false">Unit weight of soil increases due to submergence in water</choice>
+    <choice correct="false">Unit weight of soil decreases due to submergence in water</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

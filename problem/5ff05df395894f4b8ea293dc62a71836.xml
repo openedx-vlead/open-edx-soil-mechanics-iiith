@@ -1,0 +1,93 @@
+<problem display_name="Multiple Choice" markdown=" 1. Constant head method is suitable for _________ type of soils&#10;(x) Coarse grained soils&#10;() Fine grained soils&#10;() Cohesive soils&#10;() Cohesion less soils&#10;&#10;2) Variable head test is suitable for _______ type of soils&#10;() Coarse grained soils&#10;(x) Fine grained soils&#10;() Cohesive soils&#10;() Cohesion less soils&#10;&#10;3) Which test is used to find the coefficient of permeability of a partially saturated soil&#10;() Constant head method&#10;() Variable head test&#10;(x) Capillary permeability test&#10;() Consolidation test data&#10;&#10;4) For a fully saturated soil ______ is the permeability&#10;(x) More&#10;() Less&#10;() Zero&#10;() Both a and b&#10;&#10;5) Coefficient of permeability by variable head test is given by&#10;(x) k=al/At ln(h1/h2)&#10;() k=a/At ln(h2/h1)&#10;() k=al/At ln(h2/h1)&#10;() k=a/At ln(h1/h2)&#10;&#10;6) If size of the particle increases 2 times then K increases to&#10;(x) 4 Times&#10;() 2 Times&#10;() Decreases&#10;() Remains same&#10;&#10;7) Soil with largest void ratio have ______permeability&#10;(x) Less&#10;() More&#10;() Equal&#10;() Zero&#10;&#10;8) Due to change of temperature, the ᵞw and µ of the liquid reduced by 10% and 40% respectively. What is the change in the permeability of the soil&#10;() Reduces by 10%&#10;() Reduces by 90%&#10;() Reduces by 40%&#10;(x) Both a and b&#10;&#10;9) Coefficient of permeability is also called as&#10;(x) Hydraulic conductivity&#10;() Conductivity&#10;() Energy of water&#10;() Potential of water&#10;&#10;">
+<p> 1. Constant head method is suitable for _________ type of soils</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Coarse grained soils</choice>
+    <choice correct="false">Fine grained soils</choice>
+    <choice correct="false">Cohesive soils</choice>
+    <choice correct="false">Cohesion less soils</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2) Variable head test is suitable for _______ type of soils</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Coarse grained soils</choice>
+    <choice correct="true">Fine grained soils</choice>
+    <choice correct="false">Cohesive soils</choice>
+    <choice correct="false">Cohesion less soils</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3) Which test is used to find the coefficient of permeability of a partially saturated soil</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Constant head method</choice>
+    <choice correct="false">Variable head test</choice>
+    <choice correct="true">Capillary permeability test</choice>
+    <choice correct="false">Consolidation test data</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4) For a fully saturated soil ______ is the permeability</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">More</choice>
+    <choice correct="false">Less</choice>
+    <choice correct="false">Zero</choice>
+    <choice correct="false">Both a and b</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>5) Coefficient of permeability by variable head test is given by</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">k=al/At ln(h1/h2)</choice>
+    <choice correct="false">k=a/At ln(h2/h1)</choice>
+    <choice correct="false">k=al/At ln(h2/h1)</choice>
+    <choice correct="false">k=a/At ln(h1/h2)</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>6) If size of the particle increases 2 times then K increases to</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">4 Times</choice>
+    <choice correct="false">2 Times</choice>
+    <choice correct="false">Decreases</choice>
+    <choice correct="false">Remains same</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>7) Soil with largest void ratio have ______permeability</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Less</choice>
+    <choice correct="false">More</choice>
+    <choice correct="false">Equal</choice>
+    <choice correct="false">Zero</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>8) Due to change of temperature, the ᵞw and µ of the liquid reduced by 10% and 40% respectively. What is the change in the permeability of the soil</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Reduces by 10%</choice>
+    <choice correct="false">Reduces by 90%</choice>
+    <choice correct="false">Reduces by 40%</choice>
+    <choice correct="true">Both a and b</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>9) Coefficient of permeability is also called as</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Hydraulic conductivity</choice>
+    <choice correct="false">Conductivity</choice>
+    <choice correct="false">Energy of water</choice>
+    <choice correct="false">Potential of water</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>
