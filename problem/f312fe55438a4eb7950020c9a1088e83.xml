@@ -1,83 +1,74 @@
 <problem display_name="Multiple Choice" markdown=" 1. Soil water content is expressed on what basis&#10; () Gravimetric &#10; () volumetric&#10; (x) Both a and b &#10; () None&#10;&#10;2) Water content affects&#10; (x) Strength and settlement of soils&#10; () Sensitivity&#10; () Relative dendity&#10; () None &#10;&#10;3) The water content of clays are generally ________ sand and silts&#10; (x) Greater than &#10; () Equal to&#10; () Less than&#10; () None&#10;&#10;4) The standard method of determining water content is&#10; (x) Oven-drying method&#10; () Calcium carbide method&#10; () Alcohol method&#10; () Pycnometer method &#10;&#10;&#10;5) Pycnometer is used to determined&#10; () Water content and void ratio&#10; () Specific gravity and dry density&#10; (x) Water content and specific gravity&#10; () Void ratio and dry density&#10;&#10;6) The water content of soil is defined as the ratio of&#10; () Volume of water to volume of given soil&#10; () Volume of water to volume of voids in soil&#10; () Weight of water to weight of air voids&#10; (x) Weight of water to weight of solids of given mass of soil&#10;&#10;7) Water content of a soil sample is the difference of weight of given sample at the temperature and the weight determined after drying it for 24hrs at temperature ranging from ⁰c&#10; () 80⁰ c to 90⁰c &#10; () 90⁰c to 95⁰c &#10; () 95⁰c to 100⁰c&#10; (x) 105⁰c to 110⁰c &#10;&#10;8) The ratio of the weight of given volume of soil solids to the weight of an equal of distilled water at the given temperature, is known&#10; () Porosity&#10; (x) Specific gravity&#10; () Void ratio&#10; () Water content&#10;">
-<p> 1. Soil water content is expressed on what basis</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Gravimetric</choice>
-    <choice correct="false">volumetric</choice>
-    <choice correct="true">Both a and b</choice>
-    <choice correct="false">None</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2) Water content affects</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">Strength and settlement of soils</choice>
-    <choice correct="false">Sensitivity</choice>
-    <choice correct="false">Relative dendity</choice>
-    <choice correct="false">None</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3) The water content of clays are generally ________ sand and silts</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">Greater than</choice>
-    <choice correct="false">Equal to</choice>
-    <choice correct="false">Less than</choice>
-    <choice correct="false">None</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>4) The standard method of determining water content is</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">Oven-drying method</choice>
-    <choice correct="false">Calcium carbide method</choice>
-    <choice correct="false">Alcohol method</choice>
-    <choice correct="false">Pycnometer method</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>5) Pycnometer is used to determined</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Water content and void ratio</choice>
-    <choice correct="false">Specific gravity and dry density</choice>
-    <choice correct="true">Water content and specific gravity</choice>
-    <choice correct="false">Void ratio and dry density</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>6) The water content of soil is defined as the ratio of</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Volume of water to volume of given soil</choice>
-    <choice correct="false">Volume of water to volume of voids in soil</choice>
-    <choice correct="false">Weight of water to weight of air voids</choice>
-    <choice correct="true">Weight of water to weight of solids of given mass of soil</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>7) Water content of a soil sample is the difference of weight of given sample at the temperature and the weight determined after drying it for 24hrs at temperature ranging from ⁰c</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">80⁰ c to 90⁰c</choice>
-    <choice correct="false">90⁰c to 95⁰c</choice>
-    <choice correct="false">95⁰c to 100⁰c</choice>
-    <choice correct="true">105⁰c to 110⁰c</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>8) The ratio of the weight of given volume of soil solids to the weight of an equal of distilled water at the given temperature, is known</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Porosity</choice>
-    <choice correct="true">Specific gravity</choice>
-    <choice correct="false">Void ratio</choice>
-    <choice correct="false">Water content</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p> 1. Soil water content is expressed on what basis</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Gravimetric</choice>
+      <choice correct="false">volumetric</choice>
+      <choice correct="true">Both a and b</choice>
+      <choice correct="false">None</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) Water content affects</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Strength and settlement of soils</choice>
+      <choice correct="false">Sensitivity</choice>
+      <choice correct="false">Relative dendity</choice>
+      <choice correct="false">None</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3) The water content of clays are generally ________ sand and silts</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Greater than</choice>
+      <choice correct="false">Equal to</choice>
+      <choice correct="false">Less than</choice>
+      <choice correct="false">None</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4) The standard method of determining water content is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Oven-drying method</choice>
+      <choice correct="false">Calcium carbide method</choice>
+      <choice correct="false">Alcohol method</choice>
+      <choice correct="false">Pycnometer method</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5) Pycnometer is used to determined</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Water content and void ratio</choice>
+      <choice correct="false">Specific gravity and dry density</choice>
+      <choice correct="true">Water content and specific gravity</choice>
+      <choice correct="false">Void ratio and dry density</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>6) The water content of soil is defined as the ratio of</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Volume of water to volume of given soil</choice>
+      <choice correct="false">Volume of water to volume of voids in soil</choice>
+      <choice correct="false">Weight of water to weight of air voids</choice>
+      <choice correct="true">Weight of water to weight of solids of given mass of soil</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>7) Water content of a soil sample is the difference of weight of given sample at the temperature and the weight determined after drying it for 24hrs at temperature ranging from ⁰c</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">80⁰ c to 90⁰c</choice>
+      <choice correct="false">90⁰c to 95⁰c</choice>
+      <choice correct="false">95⁰c to 100⁰c</choice>
+      <choice correct="true">105⁰c to 110⁰c</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>8) The ratio of the weight of given volume of soil solids to the weight of an equal of distilled water at the given temperature, is known</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Porosity</choice>
+      <choice correct="true">Specific gravity</choice>
+      <choice correct="false">Void ratio</choice>
+      <choice correct="false">Water content</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

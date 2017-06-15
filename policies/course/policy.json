@@ -1,5 +1,6 @@
 {
     "course/course": {
+        "advertised_start": "Anytime", 
         "course_image": "Soil Mechanics.jpg", 
         "discussion_topics": {
             "General": {
@@ -40,8 +41,8 @@
         ], 
         "xml_attributes": {
             "filename": [
-                "course/smfe.xml", 
-                "course/smfe.xml"
+                "course/course.xml", 
+                "course/course.xml"
             ]
         }
     }

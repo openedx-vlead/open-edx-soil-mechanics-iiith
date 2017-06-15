@@ -1,4 +1,4 @@
-<course course_image="Soil Mechanics.jpg" display_name="Soil Mechanics" instructor_info="{&quot;instructors&quot;: []}" learning_info="[]" start="&quot;2017-05-10T00:00:00+00:00&quot;">
+<course advertised_start="Anytime" course_image="Soil Mechanics.jpg" display_name="Soil Mechanics" instructor_info="{&quot;instructors&quot;: []}" learning_info="[]" start="&quot;2017-05-10T00:00:00+00:00&quot;">
   <chapter url_name="Introduction"/>
   <chapter url_name="Water_Content_Experiment"/>
   <chapter url_name="Unit_Weight_Experiment"/>
