@@ -1,47 +1,53 @@
 <problem display_name="Multiple Choice" markdown="1) The IS classification of soils is&#10;() Particles size classification&#10;() Textural classification&#10;() Highway research board classification&#10;(x) Modified unified classification&#10;&#10;2) The biggest size of clay particles is&#10;() 0.0002mm&#10;(x) 0.002mm&#10;() 0.02mm&#10;() 0.075mm&#10;&#10;3) The maximum size of fine grained soil is&#10;() 0.002mm&#10;(x) 0.075mm&#10;() 0.75mm&#10;() 4.75mm&#10;&#10;4) Which of the following is a measure of particle size range&#10;() Effective size&#10;(x) Uniformity coefficient&#10;() Coefficient of curvature&#10;() None of the above&#10;&#10;5) A flat grain size distribution curve shows a&#10;() Narrow range of grain size&#10;(x) Wide range of grain size&#10;() Uniform grain size&#10;() Grain size from two representative fractions&#10;">
-  <p>1) The IS classification of soils is</p>
-  <multiplechoiceresponse>
-    <choicegroup type="MultipleChoice">
-      <choice correct="false">Particles size classification</choice>
-      <choice correct="false">Textural classification</choice>
-      <choice correct="false">Highway research board classification</choice>
-      <choice correct="true">Modified unified classification</choice>
-    </choicegroup>
-  </multiplechoiceresponse>
-  <p>2) The biggest size of clay particles is</p>
-  <multiplechoiceresponse>
-    <choicegroup type="MultipleChoice">
-      <choice correct="false">0.0002mm</choice>
-      <choice correct="true">0.002mm</choice>
-      <choice correct="false">0.02mm</choice>
-      <choice correct="false">0.075mm</choice>
-    </choicegroup>
-  </multiplechoiceresponse>
-  <p>3) The maximum size of fine grained soil is</p>
-  <multiplechoiceresponse>
-    <choicegroup type="MultipleChoice">
-      <choice correct="false">0.002mm</choice>
-      <choice correct="true">0.075mm</choice>
-      <choice correct="false">0.75mm</choice>
-      <choice correct="false">4.75mm</choice>
-    </choicegroup>
-  </multiplechoiceresponse>
-  <p>4) Which of the following is a measure of particle size range</p>
-  <multiplechoiceresponse>
-    <choicegroup type="MultipleChoice">
-      <choice correct="false">Effective size</choice>
-      <choice correct="true">Uniformity coefficient</choice>
-      <choice correct="false">Coefficient of curvature</choice>
-      <choice correct="false">None of the above</choice>
-    </choicegroup>
-  </multiplechoiceresponse>
-  <p>5) A flat grain size distribution curve shows a</p>
-  <multiplechoiceresponse>
-    <choicegroup type="MultipleChoice">
-      <choice correct="false">Narrow range of grain size</choice>
-      <choice correct="true">Wide range of grain size</choice>
-      <choice correct="false">Uniform grain size</choice>
-      <choice correct="false">Grain size from two representative fractions</choice>
-    </choicegroup>
-  </multiplechoiceresponse>
+<p>1) The IS classification of soils is</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Particles size classification</choice>
+    <choice correct="false">Textural classification</choice>
+    <choice correct="false">Highway research board classification</choice>
+    <choice correct="true">Modified unified classification</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2) The biggest size of clay particles is</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">0.0002mm</choice>
+    <choice correct="true">0.002mm</choice>
+    <choice correct="false">0.02mm</choice>
+    <choice correct="false">0.075mm</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3) The maximum size of fine grained soil is</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">0.002mm</choice>
+    <choice correct="true">0.075mm</choice>
+    <choice correct="false">0.75mm</choice>
+    <choice correct="false">4.75mm</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4) Which of the following is a measure of particle size range</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Effective size</choice>
+    <choice correct="true">Uniformity coefficient</choice>
+    <choice correct="false">Coefficient of curvature</choice>
+    <choice correct="false">None of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>5) A flat grain size distribution curve shows a</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Narrow range of grain size</choice>
+    <choice correct="true">Wide range of grain size</choice>
+    <choice correct="false">Uniform grain size</choice>
+    <choice correct="false">Grain size from two representative fractions</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
 </problem>

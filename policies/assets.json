@@ -3,7 +3,7 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "EERC02", 
+            "course": "SMFE", 
             "name": "Soil_Mechanics.jpg", 
             "org": "IIIT-H", 
             "revision": null, 
@@ -11,13 +11,13 @@
             "tag": "c4x"
         }, 
         "displayname": "Soil Mechanics.jpg", 
-        "filename": "asset-v1:IIIT-H+EERC02+Anytime+type@asset+block@Soil_Mechanics.jpg", 
-        "import_path": "Soil Mechanics.jpg", 
+        "filename": "asset-v1:IIIT-H+SMFE+Anytime+type@asset+block@Soil_Mechanics.jpg", 
+        "import_path": null, 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
             "IIIT-H", 
-            "EERC02", 
+            "SMFE", 
             "thumbnail", 
             "Soil_Mechanics.jpg", 
             null
