@@ -1,103 +1,92 @@
 <problem display_name="Multiple Choice" markdown=" 1. Due to compaction the parameters which increase in magnitude is&#10;(x) Shear strength&#10;() Void ratio&#10;() % of air voids&#10;() None&#10;&#10;2) Modified proctor test is used for&#10;(x) Runways&#10;() Highways&#10;() Embankments&#10;() Earthen dams&#10;&#10;3) Energy ratio in modified proctor test to standard proctor test is given by&#10;(x) 4.55&#10;() 4&#10;() 3.55&#10;() None&#10;&#10;4) For pure sandy soils&#10;(x) Compaction curve is not useful&#10;() A well defined OMC exists&#10;() Modified proctor test is recommended&#10;() Jodhpur miniature compaction test is recommended&#10;&#10;5) The 95% saturation line and 5% air voids line are&#10;() Same&#10;(x) Different&#10;() Both a and b&#10;() None&#10;&#10;6) Compaction of a soil is measured in terms of&#10;(x) Dry density&#10;() Specific gravity&#10;() Compressibility&#10;() Permeability&#10;&#10;7) Factors effecting the compaction are&#10;() Water content&#10;() Compaction energy&#10;() Soil type&#10;(x) All the above&#10;&#10;8) In a compaction test with increase in compactive effort&#10;() Maximum dry density increase but OMC decreases&#10;() The compaction cure is shifted to the left and higher&#10;(x) Both the above&#10;() Both maximum dry density and OMC increases&#10;&#10;9) Relative compaction is&#10;() Similar to relative density&#10;(x) A compaction process&#10;() A ratio of ᵞd of field to the ᵞd of lab&#10;() 0.01mm&#10;&#10;10) Standard proctor test is also known as&#10;(x) I.S light compaction test&#10;() I.S heavy compaction test&#10;() None&#10;() Both a and b&#10;&#10;" showanswer="always">
-<p> 1. Due to compaction the parameters which increase in magnitude is</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">Shear strength</choice>
-    <choice correct="false">Void ratio</choice>
-    <choice correct="false">% of air voids</choice>
-    <choice correct="false">None</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2) Modified proctor test is used for</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">Runways</choice>
-    <choice correct="false">Highways</choice>
-    <choice correct="false">Embankments</choice>
-    <choice correct="false">Earthen dams</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3) Energy ratio in modified proctor test to standard proctor test is given by</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">4.55</choice>
-    <choice correct="false">4</choice>
-    <choice correct="false">3.55</choice>
-    <choice correct="false">None</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>4) For pure sandy soils</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">Compaction curve is not useful</choice>
-    <choice correct="false">A well defined OMC exists</choice>
-    <choice correct="false">Modified proctor test is recommended</choice>
-    <choice correct="false">Jodhpur miniature compaction test is recommended</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>5) The 95% saturation line and 5% air voids line are</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Same</choice>
-    <choice correct="true">Different</choice>
-    <choice correct="false">Both a and b</choice>
-    <choice correct="false">None</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>6) Compaction of a soil is measured in terms of</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">Dry density</choice>
-    <choice correct="false">Specific gravity</choice>
-    <choice correct="false">Compressibility</choice>
-    <choice correct="false">Permeability</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>7) Factors effecting the compaction are</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Water content</choice>
-    <choice correct="false">Compaction energy</choice>
-    <choice correct="false">Soil type</choice>
-    <choice correct="true">All the above</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>8) In a compaction test with increase in compactive effort</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Maximum dry density increase but OMC decreases</choice>
-    <choice correct="false">The compaction cure is shifted to the left and higher</choice>
-    <choice correct="true">Both the above</choice>
-    <choice correct="false">Both maximum dry density and OMC increases</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>9) Relative compaction is</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Similar to relative density</choice>
-    <choice correct="true">A compaction process</choice>
-    <choice correct="false">A ratio of ᵞd of field to the ᵞd of lab</choice>
-    <choice correct="false">0.01mm</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>10) Standard proctor test is also known as</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">I.S light compaction test</choice>
-    <choice correct="false">I.S heavy compaction test</choice>
-    <choice correct="false">None</choice>
-    <choice correct="false">Both a and b</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p> 1. Due to compaction the parameters which increase in magnitude is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Shear strength</choice>
+      <choice correct="false">Void ratio</choice>
+      <choice correct="false">% of air voids</choice>
+      <choice correct="false">None</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) Modified proctor test is used for</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Runways</choice>
+      <choice correct="false">Highways</choice>
+      <choice correct="false">Embankments</choice>
+      <choice correct="false">Earthen dams</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3) Energy ratio in modified proctor test to standard proctor test is given by</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">4.55</choice>
+      <choice correct="false">4</choice>
+      <choice correct="false">3.55</choice>
+      <choice correct="false">None</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4) For pure sandy soils</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Compaction curve is not useful</choice>
+      <choice correct="false">A well defined OMC exists</choice>
+      <choice correct="false">Modified proctor test is recommended</choice>
+      <choice correct="false">Jodhpur miniature compaction test is recommended</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5) The 95% saturation line and 5% air voids line are</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Same</choice>
+      <choice correct="true">Different</choice>
+      <choice correct="false">Both a and b</choice>
+      <choice correct="false">None</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>6) Compaction of a soil is measured in terms of</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Dry density</choice>
+      <choice correct="false">Specific gravity</choice>
+      <choice correct="false">Compressibility</choice>
+      <choice correct="false">Permeability</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>7) Factors effecting the compaction are</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Water content</choice>
+      <choice correct="false">Compaction energy</choice>
+      <choice correct="false">Soil type</choice>
+      <choice correct="true">All the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>8) In a compaction test with increase in compactive effort</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Maximum dry density increase but OMC decreases</choice>
+      <choice correct="false">The compaction cure is shifted to the left and higher</choice>
+      <choice correct="true">Both the above</choice>
+      <choice correct="false">Both maximum dry density and OMC increases</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>9) Relative compaction is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Similar to relative density</choice>
+      <choice correct="true">A compaction process</choice>
+      <choice correct="false">A ratio of ᵞd of field to the ᵞd of lab</choice>
+      <choice correct="false">0.01mm</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>10) Standard proctor test is also known as</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">I.S light compaction test</choice>
+      <choice correct="false">I.S heavy compaction test</choice>
+      <choice correct="false">None</choice>
+      <choice correct="false">Both a and b</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

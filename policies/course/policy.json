@@ -40,8 +40,8 @@
         ], 
         "xml_attributes": {
             "filename": [
-                "course/smfe.xml", 
-                "course/smfe.xml"
+                "course/course.xml", 
+                "course/course.xml"
             ]
         }
     }
