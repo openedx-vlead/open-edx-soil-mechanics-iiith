@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "EERC02", 
+            "course": "civil22", 
             "name": "Soil_Mechanics.jpg", 
-            "org": "IIIT-H", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "Soil Mechanics.jpg", 
-        "filename": "asset-v1:IIIT-H+EERC02+Anytime+type@asset+block@Soil_Mechanics.jpg", 
+        "filename": "asset-v1:Virtual-Labs+civil22+Anytime+type@asset+block@Soil_Mechanics.jpg", 
         "import_path": "Soil Mechanics.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "IIIT-H", 
-            "EERC02", 
+            "Virtual-Labs", 
+            "civil22", 
             "thumbnail", 
             "Soil_Mechanics.jpg", 
             null
